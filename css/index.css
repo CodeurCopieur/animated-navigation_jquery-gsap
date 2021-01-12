@@ -54,7 +54,7 @@ ion-icon {
   position: fixed;
   width: 50%;
   height: 100vh;
-  right: 0;
+  right: -50%;
   z-index: 2;
   background-color: #2d6dbb; }
 
@@ -196,7 +196,7 @@ ion-icon {
   align-items: center;
   width: 50%; }
   .social-media .link a {
-    margin: 20px 0;
+    margin: 20px;
     color: #fff; }
 
 @media (max-width: 900px) {

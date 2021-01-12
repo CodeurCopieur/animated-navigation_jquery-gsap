@@ -58,7 +58,7 @@ ion-icon {
   position: fixed;
   width: 50%;
   height: 100vh;
-  right: 0;
+  right: -50%;
   z-index: 2;
   background-color: #2d6dbb;
 }
@@ -165,7 +165,7 @@ ion-icon {
   width: 50%;
 
   .link a {
-    margin: 20px 0;
+    margin: 20px;
     color: #fff;
   }
 }
